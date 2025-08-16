@@ -1,2 +1,43 @@
-# generated-site-099880-tmk
-AI-generated website: Build an online store for a professional shoes shop...
+# 68a0af1008695a8f6bf89098
+
+AI-generated Next.js website with clean component structure.
+
+## Structure
+
+### Pages
+- **Home** (/home): 2 components
+- **Shop** (/shop): 0 components
+- **Product** (/product): 0 components
+- **Cart** (/cart): 0 components
+- **Checkout** (/checkout): 0 components
+- **About** (/about): 0 components
+- **Contact** (/contact): 0 components
+
+### Layout Components
+- Header: 4 components
+- Footer: 4 components
+- Sidebar: 0 components
+- Floating: 0 components
+
+## Statistics
+- **Total Pages**: 7
+- **Total Components**: 3
+- **Layout Components**: 1
+- **Generated**: 2025-08-16T16:18:01.950Z
+
+## Getting Started
+
+1. Install dependencies:
+```bash
+npm install
+```
+
+2. Run development server:
+```bash
+npm run dev
+```
+
+3. Open [http://localhost:3000](http://localhost:3000)
+
+---
+Generated with AI Website Builder
